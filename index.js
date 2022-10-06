@@ -27,4 +27,3 @@ function calcDiv()
     let b = Number(prompt('Второе число?'));
     alert(a/b);
 }
-alert(" \t \n" - 2 )
